@@ -1,2 +1,2 @@
 #Ruby on Rails project
-#### (Code Place)[www.codeplace.com]
+#### [Code Place](http://www.codeplace.com)
